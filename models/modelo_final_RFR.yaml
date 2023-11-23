@@ -57,5 +57,5 @@ regresor: !!python/object:sklearn.ensemble._forest.RandomForestRegressor
   warm_start: false
 regresor__criterion: absolute_error
 regresor__max_depth: 4
-regresor__max_features: 4
-regresor__n_estimators: 150
+regresor__max_features: 2
+regresor__n_estimators: 50
