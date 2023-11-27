@@ -1,0 +1,71 @@
+codigo_distrito,municipality,district,mean,poblacion / distrito
+1,Salteras,Salteras,4.0,Salteras / Salteras
+2,Mairena del Aljarafe,Cavaleri,5.5,Mairena del Aljarafe / Cavaleri
+3,Alcalá de Guadaira,Oromana,5.666666666666667,Alcalá de Guadaira / Oromana
+4,Santiponce,Santiponce,6.0,Santiponce / Santiponce
+5,Utrera,Pedanías Norte,6.0,Utrera / Pedanías Norte
+6,Utrera,Utrera,6.217391304347826,Utrera / Utrera
+7,Bormujos,El Zaudín - Club de Golf,6.25,Bormujos / El Zaudín - Club de Golf
+8,San Jose de la Rinconada,San Jose de la Rinconada,6.5,San Jose de la Rinconada / San Jose de la Rinconada
+9,Almensilla,Almensilla,6.5,Almensilla / Almensilla
+10,La Rinconada,La Rinconada,6.5,La Rinconada / La Rinconada
+11,Umbrete,Umbrete,7.0,Umbrete / Umbrete
+12,Bormujos,Centro,7.0,Bormujos / Centro
+13,Alcalá de Guadaira,Los Molinos,7.0,Alcalá de Guadaira / Los Molinos
+14,Gines,Gines,7.2,Gines / Gines
+15,Bollullos de la Mitacion,Bollullos de la Mitacion,7.2,Bollullos de la Mitacion / Bollullos de la Mitacion
+16,Sevilla,San Jerónimo,7.5,Sevilla / San Jerónimo
+17,Montequinto,Condequinto,7.666666666666667,Montequinto / Condequinto
+18,Alcalá de Guadaira,Centro,7.6923076923076925,Alcalá de Guadaira / Centro
+19,Bormujos,Zona Universitaria,7.75,Bormujos / Zona Universitaria
+20,San Juan de Aznalfarache,Barrio Bajo,8.0,San Juan de Aznalfarache / Barrio Bajo
+21,Valencina de la Concepcion,Valencina de la Concepcion,8.0,Valencina de la Concepcion / Valencina de la Concepcion
+22,Mairena del Aljarafe,Lepanto,8.0,Mairena del Aljarafe / Lepanto
+23,Tomares,Santa Eufemia,8.0,Tomares / Santa Eufemia
+24,Sevilla,Parque Alcosa,8.0,Sevilla / Parque Alcosa
+25,Dos Hermanas,El Arenal - La Pólvora,8.2,Dos Hermanas / El Arenal - La Pólvora
+26,Alcalá de Guadaira,Nueva Alcalá,8.333333333333334,Alcalá de Guadaira / Nueva Alcalá
+27,Castilleja de la Cuesta,Castilleja de la Cuesta,8.4,Castilleja de la Cuesta / Castilleja de la Cuesta
+28,Coria del Río,Coria del Río,8.5,Coria del Río / Coria del Río
+29,Tomares,Aljamar,8.666666666666666,Tomares / Aljamar
+30,Dos Hermanas,Centro - Doña Mercedes,8.727272727272727,Dos Hermanas / Centro - Doña Mercedes
+31,Espartinas,Espartinas Pueblo,8.8,Espartinas / Espartinas Pueblo
+32,Espartinas,Loreto,8.833333333333334,Espartinas / Loreto
+33,Alcalá de Guadaira,Carretera de Sevilla a Utrera,9.0,Alcalá de Guadaira / Carretera de Sevilla a Utrera
+34,Dos Hermanas,Vista Azul - Consolación,9.0,Dos Hermanas / Vista Azul - Consolación
+35,Carmona,Carmona,9.0,Carmona / Carmona
+36,Camas,Camas,9.0,Camas / Camas
+37,Dos Hermanas,Arco norte - Avda España,9.0,Dos Hermanas / Arco norte - Avda España
+38,Sevilla,Cerro Amate,9.11111111111111,Sevilla / Cerro Amate
+39,Alcalá de Guadaira,La Paz - Montecarmelo,9.125,Alcalá de Guadaira / La Paz - Montecarmelo
+40,Sevilla,Pino Montano,9.285714285714286,Sevilla / Pino Montano
+41,Mairena del Alcor,Mairena del Alcor,9.333333333333334,Mairena del Alcor / Mairena del Alcor
+42,Gelves,Gelves,9.5,Gelves / Gelves
+43,Montequinto,Centro,9.5,Montequinto / Centro
+44,Mairena del Aljarafe,Centro,9.5,Mairena del Aljarafe / Centro
+45,Sevilla,Santa Clara,9.6,Sevilla / Santa Clara
+46,Mairena del Aljarafe,Nuevo Bulevar,9.666666666666666,Mairena del Aljarafe / Nuevo Bulevar
+47,Dos Hermanas,Entrenúcleos,9.88888888888889,Dos Hermanas / Entrenúcleos
+48,Sevilla,Santa Justa - Miraflores - Cruz Roja,9.947368421052632,Sevilla / Santa Justa - Miraflores - Cruz Roja
+49,Espartinas,Ramal de Espartinas,10.0,Espartinas / Ramal de Espartinas
+50,San Juan de Aznalfarache,Barrio Alto,10.0,San Juan de Aznalfarache / Barrio Alto
+51,Mairena del Aljarafe,Ciudad Aljarafe,10.0,Mairena del Aljarafe / Ciudad Aljarafe
+52,Montequinto,Olivar de Quintos,10.066666666666666,Montequinto / Olivar de Quintos
+53,Montequinto,Zona Avenida de Europa,10.25,Montequinto / Zona Avenida de Europa
+54,Montequinto,Cerros de Montequinto,10.4,Montequinto / Cerros de Montequinto
+55,Sevilla,Sevilla este,10.666666666666666,Sevilla / Sevilla este
+56,Sevilla,Bellavista - Jardines de Hércules,10.777777777777779,Sevilla / Bellavista - Jardines de Hércules
+57,Sevilla,Macarena,10.954545454545455,Sevilla / Macarena
+58,Tomares,Hacienda la Cartuja,11.0,Tomares / Hacienda la Cartuja
+59,Mairena del Aljarafe,Simon Verde,11.0,Mairena del Aljarafe / Simon Verde
+60,Sevilla,Los Remedios,11.035087719298245,Sevilla / Los Remedios
+61,Sevilla,San Pablo,11.25,Sevilla / San Pablo
+62,Sevilla,La Palmera - Los Bermejales,11.588235294117647,Sevilla / La Palmera - Los Bermejales
+63,Montequinto,Campo de Golf,12.142857142857142,Montequinto / Campo de Golf
+64,Bormujos,Zona Avda. Juan Diego,12.222222222222221,Bormujos / Zona Avda. Juan Diego
+65,Sevilla,Prado de San Sebastián - Felipe II - Bueno Monreal,12.310344827586206,Sevilla / Prado de San Sebastián - Felipe II - Bueno Monreal
+66,Sevilla,Triana,12.945652173913043,Sevilla / Triana
+67,Tomares,Centro,13.0,Tomares / Centro
+68,Dos Hermanas,La Motilla - Fuente del Rey,13.0,Dos Hermanas / La Motilla - Fuente del Rey
+69,Sevilla,Centro,13.583710407239819,Sevilla / Centro
+70,Sevilla,Nervión,13.694444444444445,Sevilla / Nervión
