@@ -28,5 +28,5 @@ En este apartado, representamos gráficamente la importancia de cada feature en 
 Para predecir el alquiler o venta de una vivienda mediante la introducción de nuevos input, hemos realizado esta [aplicación de streamlit](https://github.com/ManuelRF86/proyecto_ML_alquiler/blob/main/app/app.py), donde introduciendo las características de una vivienda, la aplicación te calculará el precio recomendado para esa vivienda.
 Para ejecutarla, solo tendras que, desde el terminal, ubicarte en la carpeta app de nuestro repositorio y ejecutar el comando: streamlit run app.py
 
-En la [memoria](https://github.com/ManuelRF86/proyecto_ML_alquiler/blob/main/docs/memoria.ipynb), podrás encontrar mas detalles respecto al poryecto.
+En la [memoria](https://github.com/ManuelRF86/proyecto_ML_alquiler/blob/main/docs/memoria.ipynb), podrás encontrar mas detalles respecto al proyecto.
 
