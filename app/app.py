@@ -11,14 +11,14 @@ from sklearn.model_selection import train_test_split
 from funciones import *
 
 
-directorio_actual = os.path.dirname(os.path.abspath(__file__))
+directorio_actual = os.getcwd()
 
 with open(os.path.join(directorio_actual, '..', 'models','modelo_final_GBR.pkl'), 'rb') as file:
     modelo_GBR = pickle.load(file)
 with open(os.path.join(directorio_actual, '..', 'models','modelo_final_GBR_venta.pkl'), 'rb') as file:
     modelo_GBR_venta = pickle.load(file)
 
-df_num_NS = pd.read_csv(os.path.abspath('data', 'processed', 'df.csv'))
+df_num_NS = pd.read_csv(os.path.join(directorio_actual, '..', 'data','processed', 'df_num_NS.csv'))
 X = df_num_NS.drop(['price'],axis=1)
 y = df_num_NS['price']
 
