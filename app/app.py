@@ -18,7 +18,7 @@ with open(os.path.join(directorio_actual, '..', 'models','modelo_final_GBR.pkl')
 with open(os.path.join(directorio_actual, '..', 'models','modelo_final_GBR_venta.pkl'), 'rb') as file:
     modelo_GBR_venta = pickle.load(file)
 
-df_num_NS = pd.read_csvos.path.abspath(os.path.join('data', 'processed', 'df.csv'))
+df_num_NS = pd.read_csv(os.path.abspath('data', 'processed', 'df.csv'))
 X = df_num_NS.drop(['price'],axis=1)
 y = df_num_NS['price']
 
