@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 from funciones import *
 
 
-directorio_actual = os.getcwd()
+directorio_actual = os.path.dirname(os.path.abspath(__file__))
 
 with open(os.path.join(directorio_actual, '..', 'models','modelo_final_GBR.pkl'), 'rb') as file:
     modelo_GBR = pickle.load(file)
