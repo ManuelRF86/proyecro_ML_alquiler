@@ -20,10 +20,13 @@ La dataframe final con la cual, entrenaremos nuestro modelo, consta de las sigui
 3. Entrenamiento y evaluación de nuestro modelo: 
 Para la elección del modelo, primero hemos realizado una búsqueda mediante un Pipeline y utilizando la función GridsearchCV, eligiendo 5 modelos y algunos parametros y obteniendo como resultado mas exitoso, el modelo Gradient Boosting Regressor.
 A pesar de que ya sabemos que nuestra elección será el modelo GradientBoostingRegressor, hemos hecho una busqueda individual de los mejores parametros en cada modelo, evaluándolos a su vez
+
+4. Análisis gráfico:
+En este apartado, representamos gráficamente la importancia de cada feature en la predicción del precio y como se comportan, los errores de nuestra predicción.
             
-4. Predicciones:
+5. Predicciones:
 Para predecir el alquiler o venta de una vivienda mediante la introducción de nuevos input, hemos realizado esta [aplicación de streamlit](https://github.com/ManuelRF86/proyecto_ML_alquiler/blob/main/app/app.py), donde introduciendo las características de una vivienda, la aplicación te calculará el precio recomendado para esa vivienda.
 Para ejecutarla, solo tendras que, desde el terminal, ubicarte en la carpeta app de nuestro repositorio y ejecutar el comando: streamlit run app.py
 
-Para obtener mas detalles, dejamos la [memoria]()
+En la [memoria](https://github.com/ManuelRF86/proyecto_ML_alquiler/blob/main/docs/memoria.ipynb), podrás encontrar mas detalles respecto al poryecto.
 
